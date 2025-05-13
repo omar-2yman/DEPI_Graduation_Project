@@ -73,10 +73,15 @@ It includes features related to:
 ├── README.md              # Project documentation
 └── requirements.txt       # Python dependencies
 
-# 👨‍💻 Authors
--Abdelrahman Elsayed Mohamed
--Abdallah Mohamed Abdallah
--Mazen Mostafa Abo-ElYazeed
--Mazen Ehab Gamal
--Omar Ayman Mohamed
--Seif El-Eslam Mohamed Yahia
+👨‍💻 Authors
+Abdelrahman Elsayed Mohamed
+
+Abdallah Mohamed Abdallah
+
+Mazen Mostafa Abo-ElYazeed
+
+Mazen Ehab Gamal
+
+Omar Ayman Mohamed
+
+Seif El-Eslam Mohamed Yahia
