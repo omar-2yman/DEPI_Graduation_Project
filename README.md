@@ -16,54 +16,54 @@ It includes features related to:
 
 # 🧠 Project Workflow
 1. Data Preprocessing
--Handling missing values
+ -Handling missing values
 
--Feature encoding
+ -Feature encoding
 
--Scaling features for better model performance
+ -Scaling features for better model performance
 
 2. Exploratory Data Analysis
--Feature distribution
+ -Feature distribution
 
--Target variable visualization
+ -Target variable visualization
 
--Correlation heatmaps
+ -Correlation heatmaps
 
 3. Model Development
--Implemented machine learning models include:
+ -Implemented machine learning models include:
 
--Logistic Regression
+ -Logistic Regression
 
--Random Forest Classifier
+ -Random Forest Classifier
 
--Gradient Boosting Classifier
+ -Gradient Boosting Classifier
 
--Each model is evaluated using:
+ -Each model is evaluated using:
 
--Accuracy Score
+ -Accuracy Score
 
--Precision, Recall, F1-Score
+ -Precision, Recall, F1-Score
 
--Confusion Matrix
+ -Confusion Matrix
 
--ROC Curve & AUC Score
+ -ROC Curve & AUC Score
 
 4. Model Tuning
--Grid Search for hyperparameter optimization
+ -Grid Search for hyperparameter optimization
 
--Regularization techniques
+ -Regularization techniques
 
--Feature scaling
+ -Feature scaling
 
 5. Feature Importance
--Using tree-based models to identify the most significant predictors of heart disease.
+ -Using tree-based models to identify the most significant predictors of heart disease.
 
 # 🎯 Key Findings
--Symptoms such as chest pain, palpitations, and fatigue are strong predictors.
+ -Symptoms such as chest pain, palpitations, and fatigue are strong predictors.
 
--Lifestyle-related features like smoking, obesity, and stress contribute significantly.
+ -Lifestyle-related features like smoking, obesity, and stress contribute significantly.
 
--Random Forest performed best in terms of accuracy and generalization.
+ -Random Forest performed best in terms of accuracy and generalization.
 
 # 📁 healthcare-predictive-analytics/
 ├── data/                  # Raw and cleaned dataset
