@@ -56,4 +56,27 @@ It includes features related to:
 -Feature scaling
 
 5. Feature Importance
-Using tree-based models to identify the most significant predictors of heart disease.
+-Using tree-based models to identify the most significant predictors of heart disease.
+
+# 🎯 Key Findings
+-Symptoms such as chest pain, palpitations, and fatigue are strong predictors.
+
+-Lifestyle-related features like smoking, obesity, and stress contribute significantly.
+
+-Random Forest performed best in terms of accuracy and generalization.
+
+# 📁 healthcare-predictive-analytics/
+├── data/                  # Raw and cleaned dataset
+├── notebooks/             # Jupyter notebooks for EDA and modeling
+├── models/                # Trained models and evaluation scripts
+├── images/                # Visualizations and plots
+├── README.md              # Project documentation
+└── requirements.txt       # Python dependencies
+
+# 👨‍💻 Authors
+-Abdelrahman Elsayed Mohamed
+-Abdallah Mohamed Abdallah
+-Mazen Mostafa Abo-ElYazeed
+-Mazen Ehab Gamal
+-Omar Ayman Mohamed
+-Seif El-Eslam Mohamed Yahia
