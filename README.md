@@ -1,7 +1,7 @@
-#🩺 Healthcare Predictive Analytics - Heart Disease Risk Prediction
+# 🩺 Healthcare Predictive Analytics - Heart Disease Risk Prediction
 This repository contains a machine learning project focused on predicting heart disease risk using clinical and lifestyle-related patient data. The primary goal is to build and evaluate predictive models that aid in early detection and prevention of cardiovascular disease, a leading cause of mortality globally.
 
-#📊 Dataset
+# 📊 Dataset
 The dataset used in this project was sourced from Kaggle: Heart Disease Risk Prediction Dataset.
 
 It includes features related to:
@@ -14,7 +14,7 @@ It includes features related to:
 
 -Medical history (e.g., diabetes, family history)
 
-#🧠 Project Workflow
+# 🧠 Project Workflow
 1. Data Preprocessing
 -Handling missing values
 
